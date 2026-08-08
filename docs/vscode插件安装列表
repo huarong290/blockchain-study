@@ -1,0 +1,56 @@
+# 🛠️ Web3 全栈开发 VS Code 插件推荐清单
+
+> 本清单专为 Web3 全栈工程打造，涵盖智能合约（Solidity/Foundry）、全栈 DApp 前端（Next.js/TypeScript）、后端服务（Java/Python）及通用工程效能工具。
+
+---
+
+## 1. 区块链 & 智能合约（核心）
+
+| 插件名称 | 发布者 (Publisher) | 核心功能与作用 | 推荐指数 |
+| :--- | :--- | :--- | :---: |
+| **Solidity** | `Juan Blanco` | 提供 Solidity 代码语法高亮、自动补全、代码检查与格式化 | ⭐⭐⭐⭐⭐ |
+| **Solidity Visual Developer** | `tintinweb` | 高亮变量作用域与函数权限，生成继承图谱与函数调用图，看复杂合约源码必备 | ⭐⭐⭐⭐⭐ |
+| **Even Better TOML** | `tamasfe` | 高亮与格式化 Foundry 核心配置文件 `foundry.toml` | ⭐⭐⭐⭐ |
+
+---
+
+## 2. 前端与全栈 DApp（Next.js / TypeScript）
+
+| 插件名称 | 发布者 (Publisher) | 核心功能与作用 | 推荐指数 |
+| :--- | :--- | :--- | :---: |
+| **Prettier - Code formatter** | `Prettier` | 前端与 JSON 代码自动格式化 | ⭐⭐⭐⭐⭐ |
+| **ESLint** | `Microsoft` | TypeScript / JavaScript 语法规范检测与实时报错提示 | ⭐⭐⭐⭐⭐ |
+| **Tailwind CSS IntelliSense** | `Tailwind Labs` | 编写 Next.js 页面样式时的 CSS 类名自动补全与预览 | ⭐⭐⭐⭐ |
+
+---
+
+## 3. Java & Spring Boot 后端（Web3j 集成）
+
+| 插件名称 | 发布者 (Publisher) | 核心功能与作用 | 推荐指数 |
+| :--- | :--- | :--- | :---: |
+| **Extension Pack for Java** | `Microsoft` | 官方 Java 插件包，含 IntelliCode、Maven 依赖管理与调试工具 | ⭐⭐⭐⭐⭐ |
+| **Spring Boot Extension Pack** | `VMware` | Spring Boot 项目一键启动、配置文件智能补全与注解支持 | ⭐⭐⭐⭐ |
+
+---
+
+## 4. Python 链上自动化与数据分析（Web3.py）
+
+| 插件名称 | 发布者 (Publisher) | 核心功能与作用 | 推荐指数 |
+| :--- | :--- | :--- | :---: |
+| **Python** | `Microsoft` | 提供 Python 基础环境、缩进控制与调试支持 | ⭐⭐⭐⭐⭐ |
+| **Pylance** | `Microsoft` | 高性能 Python 静态类型检查与代码分析引擎 | ⭐⭐⭐⭐⭐ |
+
+---
+
+## 5. 容器、Git 与工程效能（通用底座）
+
+| 插件名称 | 发布者 (Publisher) | 核心功能与作用 | 推荐指数 |
+| :--- | :--- | :--- | :---: |
+| **Error Lens** | `Alexander` | 将代码错误和警告直接高亮在行尾，无需悬停鼠标，调试体验极佳 | ⭐⭐⭐⭐⭐ |
+| **GitLens — Git supercharged** | `GitKraken` | 行内显示代码提交历史、责任人及变更对比 | ⭐⭐⭐⭐ |
+| **Docker** | `Microsoft` | 在 VS Code 内直接管理本地运行的 Anvil 本地链、数据库与容器 | ⭐⭐⭐⭐ |
+
+---
+
+## 💡 安装方法
+在 VS Code 中按 `Ctrl + Shift + X`（Mac: `Cmd + Shift + X`）打开插件市场，输入表格中的**插件名称**并认准**发布者名称**安装即可。
